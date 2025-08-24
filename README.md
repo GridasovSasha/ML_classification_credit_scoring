@@ -8,4 +8,8 @@ In this project I implemented binary classification using decision tree methods 
 
 I took the data for the project implementation from GitHub - https://github.com/gastonstat/CreditScoring/blob/master/CreditScoring.csv
 
-Remark: comments in the code will be written in Russian
+Remark: comments
+
+
+
+## Result
