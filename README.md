@@ -8,8 +8,7 @@ In this project I implemented binary classification using decision tree methods 
 
 I took the data for the project implementation from GitHub - https://github.com/gastonstat/CreditScoring/blob/master/CreditScoring.csv
 
-Remark: comments
-
-
+Remark: comments in the code will be written in Russian
 
 ## Result
+As a result, using the trained XGBoost model, I managed to achieve a roc_auc_score value of 0.85
