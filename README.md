@@ -1,7 +1,7 @@
 # ML | Credit risk assessment using Tree Models and Ensemble Learning
 
 <p align="center">
-  <img src="image_to_report\main_pic.jpg" width="600">
+  <img src="image_to_report\main_pic.jpg" width="400">
 </p>
 
 In this project I implemented binary classification using decision tree methods - sklearn.tree.DecisionTreeClassifier, ensemble random forest method - sklearn.ensemble.RandomForestClassifier, and also used gradient boosting using XGBoost.
